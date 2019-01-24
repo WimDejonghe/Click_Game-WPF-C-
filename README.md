@@ -16,4 +16,4 @@ Een Pull Request is een wijziging, toevoeging of verwijdering van bestand(en) di
 Hoe maak je een [Dit is een hyperlink](test.md) naar een ander tekstbestand???  
 ## Een figuur
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiiys20o4fgAhUODewKHY-hB_UQjRx6BAgBEAU&url=https%3A%2F%2Fwww.discogs.com%2Fartist%2F897395-Amy-MacDonald&psig=AOvVaw2YITrD3YjFRBRKAKFuXMT8&ust=1548448786501920 "Logo Title Text 1")
