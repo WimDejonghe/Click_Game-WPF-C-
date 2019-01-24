@@ -12,3 +12,5 @@ De MarkDown Extensie binnen Chrome is me nog niet duidelijk.
 Een Issue is een discussie. Zie hier de Issues. Dit is meestal tussen deelnemers.
 ## Een Pull request
 Een Pull Request is een wijziging, toevoeging of verwijdering van bestand(en) die de autheur wil maken aan repository. Een Pull Request is een oplossing of voorstel van een Issue.
+## Een hyperlink
+Hoe maak je een [I'm a relative reference to a repository file](test.md) hyperlink naar een ander tekstbestand???      
