@@ -8,3 +8,7 @@ Een repository is een sharing plaats voor projecten. Er is een link met de repos
 ## Readme.md
 Dit bestand zorgt voor de inleidende tekst. Er moet een verband zijn met MarkDown. Dit zou een soort editor zijn voor de README.MD file???
 De MarkDown Extensie binnen Chrome is me nog niet duidelijk.
+## Een Issue
+Een Issue is een discussie. Zie hier de Issues. Dit is meestal tussen deelnemers.
+## Een Pull request
+Een Pull Request is een wijziging, toevoeging of verwijdering van bestand(en) die de autheur wil maken aan repository.
