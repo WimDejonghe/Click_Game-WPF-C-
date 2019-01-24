@@ -16,4 +16,4 @@ Een Pull Request is een wijziging, toevoeging of verwijdering van bestand(en) di
 Hoe maak je een [Dit is een hyperlink](test.md) naar een ander tekstbestand???  
 ## Een figuur
 Inline-style: 
-![alt text](https://www.vives.be/sites/default/files/thumbnails/image/Logo-VIVES.png"Logo Title Text 1")
+![alt text](https://www.vives.be/sites/default/files/thumbnails/image/Logo-VIVES.png "Logo Title Text 1")
